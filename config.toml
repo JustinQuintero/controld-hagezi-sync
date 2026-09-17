@@ -47,6 +47,6 @@ names = ["Aggressive", "Basic", "Hardened"]
 # =============================================================================
 
 [profile_folders]
-Basic       = ["Spam TLDs", "Spam TDLs Allow", "Spam IDNs"]
 Aggressive  = ["Spam TLDs", "Spam TDLs Allow", "Spam IDNs"]
+Basic       = ["Spam TLDs", "Spam TDLs Allow", "Spam IDNs"]
 Hardened    = ["Spam TLDs", "Spam TDLs Allow", "Spam IDNs"]
