@@ -35,9 +35,9 @@ names = ["Aggressive", "Basic", "Hardened"]
 # =============================================================================
 
 [folders]
-"Spam TLDs"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-folder.json"
-"Spam TLDs Allow"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-allow-folder.json"
-"Spam IDNs"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-idns-folder.json"
+"Spam TLDs"        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-folder.json"
+"Spam TLDs Allow"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-allow-folder.json"
+"Spam IDNs"        = "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-idns-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
